@@ -9,3 +9,4 @@ This model is obviously not the best, I just wanted to test the accuracy of a si
 
 # TODOs:
 * Use transfer learning on network such as VGG16 to highly improve the accuracy of the model
+* Change the model so that it predicts less false negatives for pneumonia
